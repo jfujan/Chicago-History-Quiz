@@ -1,1 +1,1 @@
-# Chicago-History-Quiz
+# Chicago History Quiz
